@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnicas de Edición.md",
+                "file": "Edición/Técnica del parpadeo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Técnicas de Edición"
+              "title": "Técnica del parpadeo"
             }
           }
         ]
@@ -187,23 +187,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d94bf8ed33e8a27f",
+  "active": "011512d52d33c455",
   "lastOpenFiles": [
+    "Edición/Edición-Montaje.md",
+    "Edición/Técnicas de Edición.md",
+    "Edición/Técnica del parpadeo.md",
+    "Inicios del Cine.md",
+    "Cine.md",
+    "Edición/Final Cut.md",
+    "Edición/Rough Cut.md",
+    "Edición/Ensamblaje.md",
+    "Eye Trace (Recorrido visual).md",
     "multimedia/20250819-1632-34.7052397 1.mp4",
     "multimedia/20250819-1632-34.7052397.mp4",
     "multimedia/20250819-1624-43.2669956.mp4",
     "multimedia/20250819-1623-33.2910118.mp4",
-    "Técnicas de Edición.md",
     "multimedia/20250819-1545-19.7632110.mp4",
     "multimedia/20250819-1536-01.2397436.mp4",
     "multimedia/20250819-1529-31.3441540.mp4",
     "multimedia/20250819-1526-51.3272553.mp4",
-    "Eye Trace (Recorrido visual).md",
     "multimedia/20250819-1519-27.7066537.mp4",
     "multimedia/20250819-1516-58.5662408.mp4",
-    "multimedia/20250819-1509-21.3318316.mp4",
     "Corrección de color-Color Grading.md",
-    "Edición/Edición-Montaje.md",
     "Post-producción.md",
     "Diálogo.md",
     "Edición/Regla de 6.md",
@@ -212,9 +217,7 @@
     "Edición/Regla de 30º.md",
     "Escena.md",
     "Edición/Efecto Kuleshov.md",
-    "Edición/Técnica del parpadeo.md",
     "Edición/Sistema Dragnet.md",
-    "Inicios del Cine.md",
     "Edición/Eadweard Muybridge.md",
     "Teoría&Filosofía/Gilles Deleuze.md",
     "Diseño de sonido.md",
@@ -223,9 +226,6 @@
     "VFX.md",
     "Color Grading.md",
     "LUT (Lookup Table).md",
-    "Motion Capture.md",
-    "CGI (Computer Generated Imagery).md",
-    "Edición/Final Cut.md",
     "multimedia/Pasted image 20250810204305.png",
     "Pasted image 20250810204242.png"
   ]

@@ -1,4 +1,4 @@
-# Técnicas de Edición Cinematográfica
+# Técnicas de [[Edición-Montaje]] Cinematográfica
 
 Las películas están construidas jerárquicamente: [[Secuencia|secuencias]] compuestas por [[Escena|escenas]], que a su vez se forman mediante [[Plano|planos]] (tomas o encuadres). La base fundamental del montaje reside en la [[Regla de 6]], que guía las decisiones editoriales.
 
