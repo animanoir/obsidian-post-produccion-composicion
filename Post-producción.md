@@ -25,7 +25,7 @@ El Post-Procesamiento comienza cuando la filmación de material termina, donde s
 # Componentes principales
 
 - [[Edición-Montaje]]: Seleccionar y ordenar las tomas para contar la historia.
-- [[Corrección de color]]: Ajustar la **exposición**, **balance**, **consistencia**.
+- [[Corrección de color-Color Grading]]: Ajustar la **exposición**, **balance**, **consistencia**.
 - [[Color Grading]]: Crear el "look" o *estilo visual* (como el Matrix verde o el México amarillo).
 - [[Diseño de sonido]]: Diálogos, música, efectos, ambientes.
 - [[Gráficos y títulos]]: Créditos, lower thirds, infografías.

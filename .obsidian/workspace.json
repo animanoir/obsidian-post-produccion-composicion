@@ -6,7 +6,7 @@
       {
         "id": "058b039877959f12",
         "type": "tabs",
-        "dimension": 49.002347417840376,
+        "dimension": 39.847417840375584,
         "children": [
           {
             "id": "95b2c0449e3113a3",
@@ -23,7 +23,7 @@
       {
         "id": "e0eea76f541d6685",
         "type": "tabs",
-        "dimension": 50.997652582159624,
+        "dimension": 60.152582159624416,
         "children": [
           {
             "id": "011512d52d33c455",
@@ -178,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -186,15 +187,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "011512d52d33c455",
+  "active": "d94bf8ed33e8a27f",
   "lastOpenFiles": [
-    "Edición/Edición-Montaje.md",
+    "multimedia/20250819-1632-34.7052397 1.mp4",
+    "multimedia/20250819-1632-34.7052397.mp4",
+    "multimedia/20250819-1624-43.2669956.mp4",
+    "multimedia/20250819-1623-33.2910118.mp4",
     "Técnicas de Edición.md",
+    "multimedia/20250819-1545-19.7632110.mp4",
+    "multimedia/20250819-1536-01.2397436.mp4",
+    "multimedia/20250819-1529-31.3441540.mp4",
+    "multimedia/20250819-1526-51.3272553.mp4",
+    "Eye Trace (Recorrido visual).md",
+    "multimedia/20250819-1519-27.7066537.mp4",
+    "multimedia/20250819-1516-58.5662408.mp4",
+    "multimedia/20250819-1509-21.3318316.mp4",
+    "Corrección de color-Color Grading.md",
+    "Edición/Edición-Montaje.md",
     "Post-producción.md",
     "Diálogo.md",
     "Edición/Regla de 6.md",
     "Recorrido visual.md",
-    "multimedia/20250819-0739-50.2305576.mp4",
     "multimedia/Pasted image 20250819012242.png",
     "Edición/Regla de 30º.md",
     "Escena.md",
@@ -203,7 +216,6 @@
     "Edición/Sistema Dragnet.md",
     "Inicios del Cine.md",
     "Edición/Eadweard Muybridge.md",
-    "Sin nombre",
     "Teoría&Filosofía/Gilles Deleuze.md",
     "Diseño de sonido.md",
     "Mezcla de sonido.md",
@@ -214,13 +226,7 @@
     "Motion Capture.md",
     "CGI (Computer Generated Imagery).md",
     "Edición/Final Cut.md",
-    "Edición/Rough Cut.md",
-    "Ensamblaje.md",
-    "SAN.md",
     "multimedia/Pasted image 20250810204305.png",
-    "multimedia",
-    "Pasted image 20250810204242.png",
-    "Edición",
-    "Teoría&Filosofía"
+    "Pasted image 20250810204242.png"
   ]
 }
