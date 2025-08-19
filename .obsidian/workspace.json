@@ -6,7 +6,7 @@
       {
         "id": "058b039877959f12",
         "type": "tabs",
-        "dimension": 39.52095808383233,
+        "dimension": 49.002347417840376,
         "children": [
           {
             "id": "95b2c0449e3113a3",
@@ -23,7 +23,7 @@
       {
         "id": "e0eea76f541d6685",
         "type": "tabs",
-        "dimension": 60.479041916167674,
+        "dimension": 50.997652582159624,
         "children": [
           {
             "id": "011512d52d33c455",
@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edición/Regla de 6.md",
+                "file": "Técnicas de Edición.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regla de 6"
+              "title": "Técnicas de Edición"
             }
           }
         ]
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diá",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,11 +186,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d94bf8ed33e8a27f",
+  "active": "011512d52d33c455",
   "lastOpenFiles": [
-    "multimedia/Pasted image 20250819012242.png",
     "Edición/Edición-Montaje.md",
+    "Técnicas de Edición.md",
+    "Post-producción.md",
+    "Diálogo.md",
     "Edición/Regla de 6.md",
+    "Recorrido visual.md",
+    "multimedia/20250819-0739-50.2305576.mp4",
+    "multimedia/Pasted image 20250819012242.png",
     "Edición/Regla de 30º.md",
     "Escena.md",
     "Edición/Efecto Kuleshov.md",
@@ -198,7 +203,6 @@
     "Edición/Sistema Dragnet.md",
     "Inicios del Cine.md",
     "Edición/Eadweard Muybridge.md",
-    "Post-producción.md",
     "Sin nombre",
     "Teoría&Filosofía/Gilles Deleuze.md",
     "Diseño de sonido.md",
@@ -213,12 +217,10 @@
     "Edición/Rough Cut.md",
     "Ensamblaje.md",
     "SAN.md",
-    "RAID (Redundant Array of Independent Disks).md",
     "multimedia/Pasted image 20250810204305.png",
     "multimedia",
     "Pasted image 20250810204242.png",
     "Edición",
-    "Teoría&Filosofía",
-    "Bienvenido.md"
+    "Teoría&Filosofía"
   ]
 }

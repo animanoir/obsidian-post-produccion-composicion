@@ -1,1 +1,1 @@
-Cuando los cortes se hacen tras cada línea de [[Diàlogo]], pero, según [[Walter Murch]], lo vuelve muy mecánico.
+Cuando los cortes se hacen tras cada línea de [[Diálogo]], pero, según [[Walter Murch]], lo vuelve muy mecánico.
