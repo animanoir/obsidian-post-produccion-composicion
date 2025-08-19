@@ -1,0 +1,1 @@
+El primer corte se conoce como Ensamblaje. Es tan sólo **cortar el material para tener los clips más adecuados y tener algo en la línea de tiempo**.

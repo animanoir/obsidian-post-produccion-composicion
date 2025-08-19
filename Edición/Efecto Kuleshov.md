@@ -1,0 +1,1 @@
+Efecto psicológico que yuxtapone imágenes creando narrativas distintas.

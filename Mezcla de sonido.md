@@ -1,0 +1,1 @@
+Usualmente creado en [[Pro Tools]]. También concerniente con el [[Rango dinámico de amplitud]].

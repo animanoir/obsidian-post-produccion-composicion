@@ -1,0 +1,1 @@
+Como un "preset" diseñado por el colorista para darle el "look" y "estética" al material.

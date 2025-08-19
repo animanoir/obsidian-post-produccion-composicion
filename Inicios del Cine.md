@@ -1,0 +1,3 @@
+Según Claude, el inicio del [[Cine]] podría considerarse en el **año 1895**, cuando los [[Hermanos Lumiére]] realizaron la primera proyección pública de películas en **París** el 28 de diciembre, mostrando [[Cortometrajes]] como *La llegada del tren a la estación*.
+
+También existen pioneros como [[Eadweard Muybridge]], quien, en la década de 1870, capturó secuencias de movimiento que sentaron las bases para el Cine.

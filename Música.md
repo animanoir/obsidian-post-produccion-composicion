@@ -1,0 +1,1 @@
+El Compositor principal trabaja cerca del [[Director]] para entender y crear la música requerida para realizar la visión creativa.

@@ -1,0 +1,1 @@
+Se refiere a todos los visuales creados en computadora.

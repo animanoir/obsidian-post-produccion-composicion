@@ -1,0 +1,1 @@
+Tener un clip cuya escena haya captado lo que esté a 30º de separación de la [[Escena]] previa.

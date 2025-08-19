@@ -1,0 +1,1 @@
+Similar a la [[Rotoscopia]]
