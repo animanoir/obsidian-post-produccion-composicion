@@ -6,38 +6,67 @@
       {
         "id": "058b039877959f12",
         "type": "tabs",
-        "dimension": 39.847417840375584,
+        "dimension": 57.57372654155496,
         "children": [
           {
-            "id": "95b2c0449e3113a3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e0eea76f541d6685",
-        "type": "tabs",
-        "dimension": 60.152582159624416,
-        "children": [
-          {
-            "id": "011512d52d33c455",
+            "id": "5127e08b416a5aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edición/Técnica del parpadeo.md",
+                "file": "VFX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Técnica del parpadeo"
-            }
+              "title": "VFX"
+            },
+            "group": "fb2663fe671b8165"
+          }
+        ]
+      },
+      {
+        "id": "903aff60ee252ccc",
+        "type": "tabs",
+        "dimension": 42.42627345844504,
+        "children": [
+          {
+            "id": "b8c92698a2966af5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "VFX.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6372987364726841,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de VFX"
+            },
+            "group": "fb2663fe671b8165"
           }
         ]
       }
@@ -96,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0c96ae68a7653ebe",
@@ -187,10 +216,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "011512d52d33c455",
+  "active": "d94bf8ed33e8a27f",
   "lastOpenFiles": [
-    "Edición/Edición-Montaje.md",
+    "DaVinci Resolve",
+    "Hardware",
+    "Project Settings.md",
+    "DaVinci Resolve/DaVinci Resolve.md",
+    "Color management.md",
+    "multimedia/Pasted image 20250821003325.png",
+    "Edición/Regla de 6.md",
     "Edición/Técnicas de Edición.md",
+    "Teoría&Filosofía/Emoción.md",
+    "Edición/Edición-Montaje.md",
     "Edición/Técnica del parpadeo.md",
     "Inicios del Cine.md",
     "Cine.md",
@@ -207,11 +244,9 @@
     "multimedia/20250819-1529-31.3441540.mp4",
     "multimedia/20250819-1526-51.3272553.mp4",
     "multimedia/20250819-1519-27.7066537.mp4",
-    "multimedia/20250819-1516-58.5662408.mp4",
     "Corrección de color-Color Grading.md",
     "Post-producción.md",
     "Diálogo.md",
-    "Edición/Regla de 6.md",
     "Recorrido visual.md",
     "multimedia/Pasted image 20250819012242.png",
     "Edición/Regla de 30º.md",
@@ -221,11 +256,6 @@
     "Edición/Eadweard Muybridge.md",
     "Teoría&Filosofía/Gilles Deleuze.md",
     "Diseño de sonido.md",
-    "Mezcla de sonido.md",
-    "Música.md",
-    "VFX.md",
-    "Color Grading.md",
-    "LUT (Lookup Table).md",
     "multimedia/Pasted image 20250810204305.png",
     "Pasted image 20250810204242.png"
   ]
