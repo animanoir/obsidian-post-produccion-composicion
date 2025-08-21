@@ -6,7 +6,7 @@
       {
         "id": "058b039877959f12",
         "type": "tabs",
-        "dimension": 57.57372654155496,
+        "dimension": 66.3538873994638,
         "children": [
           {
             "id": "5127e08b416a5aca",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VFX.md",
+                "file": "DaVinci Resolve/Project Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VFX"
+              "title": "Project Settings"
             },
             "group": "fb2663fe671b8165"
           }
@@ -28,7 +28,7 @@
       {
         "id": "903aff60ee252ccc",
         "type": "tabs",
-        "dimension": 42.42627345844504,
+        "dimension": 33.64611260053619,
         "children": [
           {
             "id": "b8c92698a2966af5",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "VFX.md",
+                "file": "DaVinci Resolve/Project Settings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6372987364726841,
+                  "scale": 0.9999999999999992,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de VFX"
+              "title": "Gráfico de Project Settings"
             },
             "group": "fb2663fe671b8165"
           }
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "0c96ae68a7653ebe",
@@ -218,16 +218,18 @@
   },
   "active": "d94bf8ed33e8a27f",
   "lastOpenFiles": [
+    "DaVinci Resolve/DaVinci Resolve.md",
+    "Edición/Edición-Montaje.md",
+    "Edición/Técnicas de Edición.md",
+    "Corte en acción.md",
+    "DaVinci Resolve/Project Settings.md",
+    "VFX.md",
     "DaVinci Resolve",
     "Hardware",
-    "Project Settings.md",
-    "DaVinci Resolve/DaVinci Resolve.md",
     "Color management.md",
     "multimedia/Pasted image 20250821003325.png",
     "Edición/Regla de 6.md",
-    "Edición/Técnicas de Edición.md",
     "Teoría&Filosofía/Emoción.md",
-    "Edición/Edición-Montaje.md",
     "Edición/Técnica del parpadeo.md",
     "Inicios del Cine.md",
     "Cine.md",
@@ -243,7 +245,6 @@
     "multimedia/20250819-1536-01.2397436.mp4",
     "multimedia/20250819-1529-31.3441540.mp4",
     "multimedia/20250819-1526-51.3272553.mp4",
-    "multimedia/20250819-1519-27.7066537.mp4",
     "Corrección de color-Color Grading.md",
     "Post-producción.md",
     "Diálogo.md",
@@ -255,7 +256,6 @@
     "Edición/Sistema Dragnet.md",
     "Edición/Eadweard Muybridge.md",
     "Teoría&Filosofía/Gilles Deleuze.md",
-    "Diseño de sonido.md",
     "multimedia/Pasted image 20250810204305.png",
     "Pasted image 20250810204242.png"
   ]

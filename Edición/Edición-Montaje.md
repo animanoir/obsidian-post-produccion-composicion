@@ -2,7 +2,7 @@
 
 # ¿Qué hace un editor?
 
-Un editor de video **encuentra la mejor [[Narrativa]] dentro del [[Material]] crudo y en el [[Guión]]**. Trabaja junto con el [[Director]].
+Un editor de video **encuentra la mejor [[Narrativa]] dentro del [[Material]] crudo y en el [[Guión]]**. Trabaja junto con el [[Director]]. El software que usaremos será [[DaVinci Resolve]].
 
 >[!info] No importa lo que el [[Director]] cree haber grabado, sino tan sólo **el material que tenemos grabado**.
 
